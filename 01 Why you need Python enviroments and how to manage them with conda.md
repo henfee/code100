@@ -1,7 +1,8 @@
 # [Why you need Python environments and how to manage them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
 ---
+![Gergely Szerovay](https://cdn-images-1.medium.com/fit/c/120/120/1*r_CaT9oEabzWJZtcJJN3WA.jpeg)
 
-* Author: Gergely Szerovay![Gergely Szerovay](https://cdn-images-1.medium.com/fit/c/120/120/1*r_CaT9oEabzWJZtcJJN3WA.jpeg)
+* Author: Gergely Szerovay
 
 * Date: Feb 21, 2018
 
@@ -502,8 +503,9 @@ If you’re interested in this topic, I encourage you to check out these article
 ---
 # [为什么需要Python环境，以及如何使用Conda来管理它们?](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
 ---
+![Gergely Szerovay](https://cdn-images-1.medium.com/fit/c/120/120/1*r_CaT9oEabzWJZtcJJN3WA.jpeg)
 
-* 作者: Gergely Szerovay![Gergely Szerovay](https://cdn-images-1.medium.com/fit/c/120/120/1*r_CaT9oEabzWJZtcJJN3WA.jpeg)
+* 作者: Gergely Szerovay
 
 * 发表日期: 2018-02-21
 
