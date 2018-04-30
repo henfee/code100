@@ -1,7 +1,9 @@
-# Why you need Python environments and how to manage them with Conda
+# [Why you need Python environments and how to manage them with Conda]
 (https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
 ---
-author: Gergely Szerovay ![](https://cdn-images-1.medium.com/fit/c/120/120/1*r_CaT9oEabzWJZtcJJN3WA.jpeg)
+Author: ![Gergely Szerovay](https://cdn-images-1.medium.com/fit/c/120/120/1*r_CaT9oEabzWJZtcJJN3WA.jpeg)
+Date: Feb 21, 2018
+---
 
 ---
 ![This is how a perfect Python environment looks like ;)](https://cdn-images-1.medium.com/max/1600/1*KhP3BJNqy4MC8GPfUz4r-Q.jpeg)
@@ -34,7 +36,7 @@ Now that we’ve discussed why environments are useful, let’s dive in and talk
 
 The two most popular tools for setting up environments are:
 
-* **[PIP]**(https://pip.pypa.io/en/stable/) (a Python package manager; funnily enough, it stands for “Pip Installs Packages”) with [virtualenv](https://virtualenv.pypa.io/en/stable/) (a tool for creating isolated environments)
+* **[PIP](https://pip.pypa.io/en/stable/)** (a Python package manager; funnily enough, it stands for “Pip Installs Packages”) with [virtualenv](https://virtualenv.pypa.io/en/stable/) (a tool for creating isolated environments)
 * **Conda** (a package and environment manager)
 
 In this article, I cover how to use **Conda**. I prefer it because:
