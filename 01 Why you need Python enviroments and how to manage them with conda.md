@@ -871,7 +871,7 @@ conda config --get channels
 
 还有一个方面我想总结一下。如果 **多个频道包含一个包**，而一个频道包含一个较新的版本，则频道的层次顺序决定了这两个版本中的哪一个将被安装，即使更高优先级的频道包含旧版本。
 
-![在更高优先级通道内的版本将被安装](https://cdn-image-1.medium.com/max/1600/1*MlQ3bR4i6tYs_Jx-DEVPWg.jpeg)
+![在更高优先级频道内的版本将被安装](https://cdn-images-1.medium.com/max/1600/1*MlQ3bR4i6tYs_Jx-DEVPWg.jpeg)
 
 ### 搜索，安装和删除包
 
